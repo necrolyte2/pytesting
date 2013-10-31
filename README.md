@@ -1,5 +1,10 @@
 Just a very basic python project example to show a simple nose testing setup
 
+Clone this repo somewhere on your computer
+```bash
+git clone https://github.com/necrolyte2/pytesting.git
+```
+
 Make sure to install nose
 ```bash
 pip install nose
