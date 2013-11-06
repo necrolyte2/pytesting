@@ -29,3 +29,4 @@ Or to run a specific test in a testclass in a test file
 ```bash
 nosetests mymodule/tests/test_mymodule.py:TestMyModule.test_addtwoints
 ```
+test
